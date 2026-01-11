@@ -1,0 +1,8 @@
+#!/bin/bash
+case "$1" in
+    restore)
+        echo "Restoring Epistemic Form..."
+        ln -sfn ../ssg/estate-ssg ../formdb/modules/ssg
+        echo "✅ Links restored." ;;
+    *) echo "Usage: must restore" ;;
+esac
