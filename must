@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# must — Restoration utility for live-files control plane
 case "$1" in
     restore)
         echo "Restoring Epistemic Form..."

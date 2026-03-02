@@ -1,4 +1,5 @@
-# Live-Files Dashboard
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# Live-Files Dashboard — Task runner for the RSR 2026 Control Plane
 v:
     @./scripts/map_ecosystem.sh
 

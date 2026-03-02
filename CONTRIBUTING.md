@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: PMPL-1.0-or-later -->
 # Clone the repository
 git clone https://github.com/hyperpolymath/live-files.git
 cd live-files
@@ -53,7 +54,7 @@ live-files/
 
 **Before reporting**:
 1. Search existing issues
-2. Check if it's already fixed in `{{MAIN_BRANCH}}`
+2. Check if it's already fixed in `main`
 3. Determine which perimeter the bug affects
 
 **When reporting**:

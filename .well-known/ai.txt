@@ -1,0 +1,20 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# ai.txt — AI agent interaction policy for this repository
+#
+# This file declares how AI systems should interact with this project.
+# See also: 0-AI-MANIFEST.a2ml (detailed AI entry point)
+
+# Policy
+User-agent: *
+Allow: /
+
+# Metadata
+AI-Manifest: /0-AI-MANIFEST.a2ml
+Machine-Readable: /.machine_readable/
+License: PMPL-1.0-or-later
+Author: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+
+# Preferences
+Preferred-Format: structured
+Respect-Emotional-Lineage: yes
+Preserve-Provenance: yes

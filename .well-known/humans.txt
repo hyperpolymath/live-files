@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# humans.txt — https://humanstxt.org/
+
+/* TEAM */
+Name: Jonathan D.A. Jewell
+Role: Creator and Maintainer
+GitHub: hyperpolymath
+Email: j.d.a.jewell@open.ac.uk
+
+/* SITE */
+Project: live-files
+Description: RSR 2026 Control Plane for the Hyperpolymath Epistemic Fleet
+License: PMPL-1.0-or-later
+Standards: Rhodium Standard Repositories (RSR)
+Language: English (Oxford British)
