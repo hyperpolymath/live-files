@@ -52,12 +52,12 @@ live-files/
 +-- scripts/
 |   +-- map_ecosystem.sh        # Colour-coded fleet map
 +-- .machine_readable/          # SCM metadata files
-|   +-- STATE.scm
-|   +-- META.scm
-|   +-- ECOSYSTEM.scm
-|   +-- AGENTIC.scm
-|   +-- NEUROSYM.scm
-|   +-- PLAYBOOK.scm
+|   +-- .machine_readable/6a2/STATE.a2ml
+|   +-- .machine_readable/6a2/META.a2ml
+|   +-- .machine_readable/6a2/ECOSYSTEM.a2ml
+|   +-- .machine_readable/6a2/AGENTIC.a2ml
+|   +-- .machine_readable/6a2/NEUROSYM.a2ml
+|   +-- .machine_readable/6a2/PLAYBOOK.a2ml
 +-- .well-known/                # Protocol files
 |   +-- security.txt
 |   +-- humans.txt
