@@ -1,0 +1,26 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# Clade declaration — part of the gv-clade-index registry
+# See: https://github.com/hyperpolymath/gv-clade-index
+
+[identity]
+uuid = "72af6322-e2bc-5fe0-a43d-5356fae10ab5"
+primary-forge = "github"
+primary-owner = "hyperpolymath"
+canonical-name = "live-files"
+prefixed-name = "ap-live-files"
+
+[clade]
+primary = "ap"
+secondary = []
+assigned = "2026-03-16"
+rationale = ""
+
+[forges]
+github = "hyperpolymath/live-files"
+gitlab = "hyperpolymath/live-files"
+bitbucket = "hyperpolymath/live-files"
+
+[lineage]
+type = "standalone"
+parent = "Live file synchronisation tool"
+born = "2026-03-16"
