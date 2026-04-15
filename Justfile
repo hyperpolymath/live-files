@@ -1,5 +1,7 @@
 # SPDX-License-Identifier: PMPL-1.0-or-later
 # Live-Files Dashboard — Task runner for the RSR 2026 Control Plane
+import? "contractile.just"
+
 v:
     @./scripts/map_ecosystem.sh
 
