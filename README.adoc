@@ -47,7 +47,7 @@ just file
 ----
 live-files/
 +-- 0-AI-MANIFEST.a2ml         # AI agent entry point
-+-- justfile                    # Task runner (no Makefiles)
++-- Justfile                    # Task runner (no Makefiles)
 +-- must                        # Restoration utility
 +-- scripts/
 |   +-- map_ecosystem.sh        # Colour-coded fleet map
