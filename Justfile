@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: PMPL-1.0-or-later
+# SPDX-License-Identifier: MPL-2.0
 # Live-Files Dashboard — Task runner for the RSR 2026 Control Plane
 import? "contractile.just"
 

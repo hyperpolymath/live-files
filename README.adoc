@@ -1,10 +1,10 @@
-// SPDX-License-Identifier: PMPL-1.0-or-later
+// SPDX-License-Identifier: MPL-2.0
 // README.adoc -- live-files: RSR 2026 Control Plane
 = live-files
 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 :toc: macro
 :toclevels: 2
-:license: PMPL-1.0-or-later
+:license: MPL-2.0
 :url-repo: https://github.com/hyperpolymath/live-files
 
 image:https://img.shields.io/badge/license-PMPL--1.0--or--later-blue[License,link=LICENSE]
@@ -72,10 +72,10 @@ live-files/
 * No Makefiles -- uses Just/Nickel only
 * Oxford British English throughout
 * nerdctl for all container tasks
-* PMPL-1.0-or-later licence
+* MPL-2.0 licence
 
 == Licence
 
-This project is licensed under the link:LICENSE[Palimpsest Licence (PMPL-1.0-or-later)].
+This project is licensed under the link:LICENSE[Palimpsest Licence (MPL-2.0)].
 
 Copyright (c) 2025-2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>

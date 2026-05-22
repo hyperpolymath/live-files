@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: PMPL-1.0-or-later
+# SPDX-License-Identifier: MPL-2.0
 # humans.txt — https://humanstxt.org/
 
 /* TEAM */
@@ -10,6 +10,6 @@ Email: j.d.a.jewell@open.ac.uk
 /* SITE */
 Project: live-files
 Description: RSR 2026 Control Plane for the Hyperpolymath Epistemic Fleet
-License: PMPL-1.0-or-later
+License: MPL-2.0
 Standards: Rhodium Standard Repositories (RSR)
 Language: English (Oxford British)
