@@ -14,5 +14,4 @@
   (synopsis "live-files")
   (description "live-files — part of the hyperpolymath ecosystem.")
   (home-page "https://github.com/hyperpolymath/live-files")
-  (license ((@@ (guix licenses) license) "PMPL-1.0-or-later"
-             "https://github.com/hyperpolymath/palimpsest-license")))
+  (license mpl2.0))
