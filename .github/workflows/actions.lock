@@ -34,11 +34,11 @@ workflows:
     '.github/workflows/scorecard-enforcer.yml':
         - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
         - 'github/codeql-action@33d7b85da1a04171e211befe2c739303b9a4c066'
-        - 'ossf/scorecard-action@fa7117db83c52d787ae5a89f350999701505d78e'
+        - 'ossf/scorecard-action@23f22cd43608bae7a1f1fa2603d7314dee9538a5'
     '.github/workflows/scorecard.yml':
         - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
         - 'github/codeql-action@33d7b85da1a04171e211befe2c739303b9a4c066'
-        - 'ossf/scorecard-action@fa7117db83c52d787ae5a89f350999701505d78e'
+        - 'ossf/scorecard-action@23f22cd43608bae7a1f1fa2603d7314dee9538a5'
     '.github/workflows/secret-scanner.yml':
         - 'actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd'
         - 'gitleaks/gitleaks-action@ff98106e4c7b2bc287b24eaf42907196329070c7'
@@ -148,9 +148,9 @@ dependencies:
         commit: 'sha1-e384daf6167a7a7567642d6a62060106244d2413'
         owner_id: 6759885
         repo_id: 1352485172
-    'ossf/scorecard-action@fa7117db83c52d787ae5a89f350999701505d78e':
-        ref: 'v2.5.0'
-        commit: 'sha1-fa7117db83c52d787ae5a89f350999701505d78e'
+    'ossf/scorecard-action@23f22cd43608bae7a1f1fa2603d7314dee9538a5':
+        ref: 'v2.6.0'
+        commit: 'sha1-23f22cd43608bae7a1f1fa2603d7314dee9538a5'
         owner_id: 67707773
         repo_id: 421101922
     'peter-evans/repository-dispatch@28959ce8df70de7be546dd1250a005dd32156697':
